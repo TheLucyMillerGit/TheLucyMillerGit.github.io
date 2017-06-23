@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ICT Development Officer - Childrens Learning "
+title:  "ICT Development Officer - Childrens Learning Services"
 date:   2008-05-01 13:48:27 +0000
 categories: jekyll update
 ---
