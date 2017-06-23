@@ -21,6 +21,3 @@ categories: jekyll update
 - Responsible for archiving digital components, in conjunction with Archiving Controller.
 - Alert project team (all editorial team, Publisher, Project Manager, Marketing Lead, Customer Service Lead, Production Controller, Senior Digital Producer, Digital Delivery Manager) as soon as components go live.
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
