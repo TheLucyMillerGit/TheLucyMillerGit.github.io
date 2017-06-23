@@ -13,3 +13,11 @@ I am a web developer/producer with 6+ years’ experience creating and maintaini
 - Working knowledge of Photoshop, InDesign, Tortoise Hg workbench, GIT
 - Basic knowledge of C# and .NET (Certified by Learning Tree) React, Sass, Less, GIT
 
+# Qualifications
+
+- BSc (Hons) Computer Studies (2:2) Southampton Solent University, Southampton
+- City and Guilds – Coding and Programming in ‘C’ (Level 2) North-West Kent College, Gravesend, Kent
+- A-Levels – Maths with Statistics (D), Physics (D), Art and Design (D)
+- 9 GCSE’S grade A/B including Maths (A), Art (A), English (A)
+- Other training includes FLASH, Dreamweaver, Apple Teachers Institute, Advanced Access, Tridion (CMS) Author, ECDL, SIMS.net, Data Protection, C# ASP.Net MV, Sass with Compass.
+
