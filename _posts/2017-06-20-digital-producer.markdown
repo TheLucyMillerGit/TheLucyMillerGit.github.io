@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Digital Web Producer - Digital Operations"
-date:   2017-06-20 13:48:27 +0000
+date:   2017-05-08 13:48:27 +0000
 categories: jekyll update
 ---
+
+# Macmillan Education, Springer Nature
 
 - Act as point of contact for all digital queries and follow up on those queries when there is no clear decision/guidance.
 - Technical development and production of all digital components, working with 3rd party suppliers of content development and production services.
