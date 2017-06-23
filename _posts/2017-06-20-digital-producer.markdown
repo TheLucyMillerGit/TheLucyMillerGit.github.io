@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Digital Web producer - Macmillan Education"
+title:  "Digital Web Producer - Digital Operations"
 date:   2017-06-20 13:48:27 +0000
 categories: jekyll update
 ---
