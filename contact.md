@@ -4,7 +4,7 @@ title: Contact
 permalink: /contact/
 ---
 
-Lucy Miller
-thelucymiller@gmail.com
+>Lucy Miller
+>thelucymiller@gmail.com
 
-07771693872
+>07771693872
